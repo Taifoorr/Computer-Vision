@@ -60,7 +60,7 @@ You can also visualize the regions on the image where the text was extracted by 
 
 ---
 ## 10) Output:
-Fakturnanr: INVO175257.
-Bilagsdato: 17 juli 2024
-Forfaldsdato: 16 august 2024
-Reference: 137828
+- Fakturnanr: INVO175257.
+- Bilagsdato: 17 juli 2024
+- Forfaldsdato: 16 august 2024
+- Reference: 137828
