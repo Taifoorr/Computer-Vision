@@ -25,7 +25,6 @@ image_path = '/content/drive/MyDrive/123_invoice.PNG'
 
 5) Convert Image to Grayscale:
 OCR works better with grayscale images, so the script converts the image to grayscale using OpenCV:
-
 gray_image = cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
 Define Regions of Interest (ROI):
 Specify the coordinates for different fields on the invoice (like Fakturnanr, Bilagsdato, etc.) using (x, y, w, h) format.
